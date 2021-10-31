@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("pull!");
         System.out.println("gitlab");
         System.out.println("gitlabs");
+        System.out.println("gitlab");
 
     }
 }
